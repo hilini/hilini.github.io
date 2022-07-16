@@ -1,6 +1,6 @@
 # Notion 쓰는중
 
-##Hello I'm hilini
+## Hello I'm hilini
 
 https://hilini.notion.site/Hilini-3afed53ed43a4cffb6c3fd74ac343fcd
 
