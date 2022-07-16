@@ -1,3 +1,29 @@
+# Notion 쓰는중
+
+##Hello I'm hilini
+
+https://hilini.notion.site/Hilini-3afed53ed43a4cffb6c3fd74ac343fcd
+
+### Papers
+
+https://hilini.notion.site/51d577f0fe314f7eb29378be7afc226b?v=eb9584e73c2842b1b216fb66636421b7
+
+### Dacon
+
+https://hilini.notion.site/aabbc72671284afaad9395e2d16aff61
+
+### Goorm(KAIST)
+
+https://hilini.notion.site/Goorm-KAIST-5-be21bb5635724048b12c64d5d7576a01
+
+### programing(Algorithm)
+
+https://hilini.notion.site/programing-Algorithm-dfccecfa3b7248c7ab0078cb36226c88
+
+
+
+
+
 # Not Pure Poole <!-- omit in toc -->
 
 <a href="https://jekyll-themes.com">
